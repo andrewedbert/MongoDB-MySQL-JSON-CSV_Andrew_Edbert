@@ -1,0 +1,37 @@
+[
+    {
+        "id": 3,
+        "nama": "Doraemon",
+        "usia": 10
+    },
+    {
+        "id": 4,
+        "nama": "Nobita",
+        "usia": 12
+    },
+    {
+        "id": 5,
+        "nama": "Shizuka",
+        "usia": 12
+    },
+    {
+        "id": 6,
+        "nama": "Suneo",
+        "usia": 12
+    },
+    {
+        "id": 7,
+        "nama": "Goda Takeshi",
+        "usia": 12
+    },
+    {
+        "id": 8,
+        "nama": "Dorami",
+        "usia": 7
+    },
+    {
+        "id": 9,
+        "nama": "Dekisugi",
+        "usia": 12
+    }
+]
